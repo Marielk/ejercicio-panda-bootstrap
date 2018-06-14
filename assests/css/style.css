@@ -70,6 +70,20 @@
   margin-top: 5%;
 }
 
+#imagesTitle {
+  font-family: 'Sanchez', serif;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 5%;
+}
+
+#footer {
+  color: #FFFFFF;
+  font-size: 1rem;
+  font-family: 'Sanchez', serif;
+  text-align : right;  
+}
+
 .img-thumbnail{
   padding: .25rem;
   margin: 2%;
